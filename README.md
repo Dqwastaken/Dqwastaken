@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📚 I'm learning JS, HTML, and CSS
+📚 I'm learning JS, HTML, CSS, and PHP
 🐣 I'm new to github and development and I'm just learning the ropes.
